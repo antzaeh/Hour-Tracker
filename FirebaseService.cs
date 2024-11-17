@@ -16,7 +16,8 @@ namespace TuntiPorttiUser
 
         public FirebaseService(string userId)
         {
-            string firebaseClient = "https://bookstore-a1c4a-default-rtdb.europe-west1.firebasedatabase.app/";
+            //Add url here
+            string firebaseClient = "";
             
             _userId = userId; // Store the userId for this service instance
 
