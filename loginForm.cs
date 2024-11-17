@@ -40,8 +40,9 @@ namespace TuntiporttiUser
         {
             using (var client = new HttpClient())
             {
-                string firebaseUrl = "https://tuntiportti-cb7ed-default-rtdb.europe-west1.firebasedatabase.app";
-                string usersPath = "/users.json";
+                //Add firebase here
+                string firebaseUrl = "";
+                string usersPath = "";
 
                 try
                 {
