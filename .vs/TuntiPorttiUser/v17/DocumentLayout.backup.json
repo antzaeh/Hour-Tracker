@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|d:\\koulu\\nelosvuos\\projekti\\tuntiportti\\tuntiporttiuser\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|d:\\koulu\\nelosvuos\\projekti\\tuntiportti\\tuntiporttiuser\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|d:\\koulu\\nelosvuos\\projekti\\tuntiportti\\tuntiporttiuser\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\exportexel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:exportexel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\workentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:workentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D091CD9-A69F-466F-9A85-3923FA1FE76C}|TuntiPorttiUser.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginForm.cs",
+              "RelativeToolTip": "loginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:55:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginForm.cs [Design]",
+              "RelativeToolTip": "loginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:55:24.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportExel.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\ExportExel.cs",
+              "RelativeDocumentMoniker": "ExportExel.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\ExportExel.cs",
+              "RelativeToolTip": "ExportExel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:15:24.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "FirebaseService.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\FirebaseService.cs",
+              "RelativeToolTip": "FirebaseService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowKkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:41:19.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginForm.Designer.cs",
+              "RelativeDocumentMoniker": "loginForm.Designer.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\loginForm.Designer.cs",
+              "RelativeToolTip": "loginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:58:00.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:55:17.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:48:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:46:54.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:48:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkEntry.cs",
+              "DocumentMoniker": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\WorkEntry.cs",
+              "RelativeDocumentMoniker": "WorkEntry.cs",
+              "ToolTip": "D:\\Koulu\\NelosVuos\\Projekti\\Tuntiportti\\TuntiPorttiUser\\WorkEntry.cs",
+              "RelativeToolTip": "WorkEntry.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:12:29.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
